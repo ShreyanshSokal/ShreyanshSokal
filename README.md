@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShreyanshSokal
 - 👀 I’m interested in Software development using Java - Springboot in the Backend.
-- 🌱 I’m currently learning Data Structures and Agorithms
+- 🌱 I’m currently Working as a software engineer at Capgemini Technologies and learning Data Structures and Agorithms
 - 💞️ I’m looking to collaborate on Software development in the backend.
 - 📫 How to reach me - Shreyanshsokal@gmail.com | www.linkedin.com/in/Shreyanshsokal
 - ⚡ Fun fact: you'll get to know once we have a convo ;)
