@@ -9,7 +9,7 @@
 - 🤖 Building **LLM-powered systems, RAG pipelines & agentic workflows**  
 - 🐍 Strong in **Python (FastAPI, Flask)** for AI systems  
 - ⚙️ Backend expertise in **Java, Spring Boot, Microservices & Distributed Systems**  
-- 🧠 Developed **AI-driven SAP code impact analysis system (FI/MM/SD)**  
+- 🧠 Developed **AI-driven code impact analysis system**  
 - 📉 Reduced manual impact analysis effort & improved release decision speed  
 - 📈 Focused on solving real-world problems using scalable AI systems  
 
