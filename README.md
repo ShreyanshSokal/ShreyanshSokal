@@ -9,9 +9,10 @@
 - 🤖 Building **LLM-powered systems, RAG pipelines & agentic workflows**  
 - 🐍 Strong in **Python (FastAPI, Flask)** for AI systems  
 - ⚙️ Backend expertise in **Java, Spring Boot, Microservices & Distributed Systems**  
-- 🧠 Developed **AI-driven code impact analysis system**  
+- 🧠 Developed **AI-driven code impact analysis system** and **AI-powered NL → SQL Chatbot Application**  
 - 📉 Reduced manual impact analysis effort & improved release decision speed  
-- 📈 Focused on solving real-world problems using scalable AI systems  
+- 📈 Focused on solving real-world problems using scalable AI systems
+- 🧠 Securely used natural language to SQL Conversion using AI Capabilities 
 
 ---
 
